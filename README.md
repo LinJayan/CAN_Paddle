@@ -1,1 +1,1 @@
-# CAN_Paddle
+# 基于Paddle复现CAN模型
