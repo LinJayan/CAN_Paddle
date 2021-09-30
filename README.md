@@ -44,7 +44,7 @@ Python >= 3.7
  
 git clone https://github.com/LinJayan/CAN_Paddle.git
 
-============================== Step 2 download and prepare data ==============================
+============================== Step 2 download and prepare data==============================
 
 cd dataset && ../prepare_data.sh
 
